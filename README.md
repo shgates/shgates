@@ -10,7 +10,7 @@ I'm a fullstack software engineer who likes backend, distributed systems, and lo
 ## 🛠️ Tech Stack 
 I use mostly Go, NodeJS, Python, and C/C++ but i also want to learn Rust in the future.
 
-## 📚 I'm interest in studying about
+## 📚 I'm interest in
 
 Backend Engineering, Cool Algorithms, Distributed Systems, Cloud Computing, DevOps, Parallel and Concurrent Programming, IoT and Cryptography.
 
