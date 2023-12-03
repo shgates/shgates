@@ -3,25 +3,17 @@ shgates/shgates is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# About Me
+# 👋 About Me
 
-I'm a fullstack software engineer pursuing my computer science degree. 
+I'm a fullstack software engineer with a passion for backend, distributed systems, and low-level programming.
 
-I like to build backend, distributed systems and low level stuff, mostly with Go, NodeJS, Python and C/C++ (i plan to learn Rust in the future). 
+## 💼 Tech Stack 
+I use mostly Go, NodeJS, Python, and C/C++ but i'm also willing to learn Rust in the future.
 
-I'm open to contribute to open-source projects in these fields so if you have a cool project, contact me :D
+## 📚 I'm interest in studying about
 
+Backend Engineering, Distributed Systems, Cloud Computing, DevOps, Parallel and Concurrent Programming, IoT and Cryptography.
 
-# Technology and Tools 🔧
-## Programming Languages 
-
-[![My Skills](https://skills.thijs.gg/icons?i=typescript,javascript,nodejs,python,go,rust,c,cpp&theme=dark)](https://skills.thijs.gg)
-
-## Frameworks 
-[![My Skills](https://skills.thijs.gg/icons?i=nestjs,angular,react,nextjs&theme=dark)](https://skills.thijs.gg)
-
-## Cloud 
-[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,aws,gcp&theme=dark)](https://skills.thijs.gg)
- 
- ## Databases
-[![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql,mongodb,redis&theme=dark)](https://skills.thijs.gg)
+## 💬 Contact Me
+Telegram: @shgates
+E-mail: sousa.gates@gmail.com
