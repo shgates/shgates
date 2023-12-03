@@ -13,15 +13,15 @@ I'm open to contribute to open-source projects in these fields so if you have a 
 
 
 # Technology and Tools 🔧
-## Programming Languages 🔥
+## Programming Languages 
 
 [![My Skills](https://skills.thijs.gg/icons?i=typescript,javascript,nodejs,python,go,rust,c,cpp&theme=dark)](https://skills.thijs.gg)
 
-## Frameworks 🖼️
+## Frameworks 
 [![My Skills](https://skills.thijs.gg/icons?i=nestjs,angular,react,nextjs&theme=dark)](https://skills.thijs.gg)
 
-## Cloud ☁️
+## Cloud 
 [![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,aws,gcp&theme=dark)](https://skills.thijs.gg)
  
- ## Databases 📊
+ ## Databases
 [![My Skills](https://skills.thijs.gg/icons?i=postgres,mysql,mongodb,redis&theme=dark)](https://skills.thijs.gg)
