@@ -15,5 +15,5 @@ I use mostly Go, NodeJS, Python, and C/C++ but i'm also willing to learn Rust in
 Backend Engineering, Distributed Systems, Cloud Computing, DevOps, Parallel and Concurrent Programming, IoT and Cryptography.
 
 ## 💬 Contact Me
-Telegram: @shgates
+Telegram: @shgates \
 E-mail: sousa.gates@gmail.com
