@@ -21,4 +21,4 @@ Open to contributing to cool open-source projects in these areas.
 ## 📬 Contact Me
 Telegram: @shgates \
 E-mail: sousa.gates@gmail.com \
-Linkedin: linkedin.com/in/felipebarauna/
+Linkedin: linkedin.com/in/felipebarauna
